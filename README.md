@@ -1,11 +1,11 @@
-# Graduation Project
-## Categorized Review & Social Media Platform
+# Graduation Project | Categorized Review & Social Media Platform
 
 **Duration:** September 2024 – July 2025
 
 **Grade:** A+
 
 This project is a **cross-platform mobile application and website** that combines the interactive features of social media with a categorized review system. 
+
 In today’s world, people often rely on bloggers and influencers for reviews, but it’s getting harder to find truly authentic opinions. We started InOne to solve this problem and empower real people to share honest experiences. InOne combines a strong, reliable review system with social media features, creating a space where users can connect, post and make better decisions based on trusted community feedback.
 
 ---
