@@ -52,7 +52,7 @@ It reflects a strong focus on scalable architecture, clean design and user exper
 
 ---
 
-## 🏆 Acknowledgments
+## Acknowledgments
 
 This project was successfully completed with a final grade of **A+**.
 Special thanks to faculty mentors, colleagues and peers who supported the development journey.
