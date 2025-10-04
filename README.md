@@ -1,4 +1,4 @@
-# Graduation Project | Categorized Review & Social Media Platform
+# Graduation Project
 
 **Duration:** September 2024 – July 2025
 
