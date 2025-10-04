@@ -1,6 +1,8 @@
-# Graduation Project — Categorized Review & Social Media Platform
+# Graduation Project
+## Categorized Review & Social Media Platform
 
 **Duration:** September 2024 – July 2025
+
 **Grade:** A+
 
 This project is a **cross-platform mobile application and website** that combines the interactive features of social media with a categorized review system. 
